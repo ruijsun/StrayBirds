@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: ruijsun
-baseurl: /StrayBirds
+baseurl: /reeblog
 markdown: redcarpet
 safe: false
 highlighter: pygments
